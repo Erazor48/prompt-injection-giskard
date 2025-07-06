@@ -8,11 +8,11 @@ This repository contains the course project on prompt injection attacks and LLM 
 
 ### 📄 Presentation
 
-> 🔗 [Download the presentation (PPTX)](.\presentation\Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pptx)
+> 🔗 [Download the presentation (PPTX)](./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pptx)
 
-> 🔗 [Download the presentation (PDF)](.\presentation\Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf)
+> 🔗 [Download the presentation (PDF)](./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf)
 
-![Presentation Preview](.\resources\Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png)
+![Presentation Preview](./resources/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png)
 
 ### Technologies & Skills
 
@@ -30,11 +30,11 @@ Ce dépôt contient un projet de cours réalisé avec un camarade sur les attaqu
 
 ### 📄 Présentation
 
-> 🔗 [Télécharger la présentation (PPTX)](.\presentation\Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pptx)
+> 🔗 [Télécharger la présentation (PPTX)](./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pptx)
 
-> 🔗 [Télécharger la présentation (PDF)](.\presentation\Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf)
+> 🔗 [Télécharger la présentation (PDF)](./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf)
 
-![Aperçu de la présentation](.\resources\Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png)
+![Aperçu de la présentation](./resources/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png)
 
 ### Technologies & Compétences
 
