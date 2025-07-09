@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🧠 Prompt Injection & Giskard 🐢</h1>
-  <a href="./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf"><img src="./resources/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png"></a>
+  <a href="./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf"><img src="./resources/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png"/></a>
 </div>
 
 ## 🇬🇧 English Version
