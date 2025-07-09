@@ -1,4 +1,7 @@
-# 🧠 Prompt Injection & Giskard 🐢
+<div align="center">
+  <h4>🧠 Prompt Injection & Giskard 🐢</h4>
+  <a href="./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf"><img src="./resources/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png"></a>
+</div>
 
 ## 🇬🇧 English Version
 
@@ -11,8 +14,6 @@ This repository contains the course project on prompt injection attacks and LLM 
 > 🔗 [Download the presentation (PPTX)](./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pptx)
 
 > 🔗 [Download the presentation (PDF)](./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf)
-
-![Presentation Preview](./resources/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png)
 
 ### Technologies & Skills
 
@@ -33,8 +34,6 @@ Ce dépôt contient un projet de cours réalisé avec un camarade sur les attaqu
 > 🔗 [Télécharger la présentation (PPTX)](./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pptx)
 
 > 🔗 [Télécharger la présentation (PDF)](./presentation/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.pdf)
-
-![Aperçu de la présentation](./resources/Securiser-vos-LLM-contre-les-prompt-injections-avec-Giskard.png)
 
 ### Technologies & Compétences
 
